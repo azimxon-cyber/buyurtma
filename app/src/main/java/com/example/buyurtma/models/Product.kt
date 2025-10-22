@@ -1,7 +1,5 @@
 package com.example.buyurtma.models
 
-import com.example.buyurtma.ProductStatus
-
 data class Product(
     val id: Int,
     val name: String,
