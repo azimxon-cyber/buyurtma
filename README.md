@@ -51,3 +51,17 @@
 
 ## 🧠 Структура проекта
 
+app/
+├─ src/
+│ ├─ main/
+│ │ ├─ java/com/example/buyurtma/
+│ │ │ ├─ MainActivity.kt # Точка входа
+│ │ │ ├─ OrderViewModel.kt # ViewModel и бизнес-логика
+│ │ │ ├─ OrderScreen.kt # UI и Compose-компоненты
+│ │ ├─ res/
+│ │ │ ├─ drawable/
+│ │ │ │ └─ screen_shot.png # Скриншот приложения
+│ │ │ └─ values/
+│ │ │ └─ colors.xml, themes.xml и др.
+├─ build.gradle
+└─ README.md
