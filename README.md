@@ -5,10 +5,14 @@
 
 ---
 
-## 📸 Скриншот
+## 📸 Скриншоты
 
 <p align="center">
   <img src="app/src/main/res/drawable/screen_shot.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="app/src/main/res/drawable/phone_screen.png" width="600"/>
 </p>
 
 ---
