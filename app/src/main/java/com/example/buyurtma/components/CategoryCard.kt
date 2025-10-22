@@ -39,7 +39,8 @@ fun CategoryCard(category: Category, isSelected: Boolean, onClick: () -> Unit) {
                     "hot" -> "🔥"
                     "favorite" -> "⭐"
                     else -> "🍜"
-                }, fontSize = 28.sp
+                },
+                fontSize = 28.sp
             )
             Spacer(Modifier.height(8.dp))
             Text(category.name, fontSize = 12.sp, textAlign = TextAlign.Center)
